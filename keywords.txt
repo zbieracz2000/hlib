@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Hlib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Hlib	KEYWORD1	Hlib
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+FWD_A	KEYWORD2
+BWD_A	KEYWORD2
+STOP_A	KEYWORD2
+FWD_B	KEYWORD2
+BWD_B	KEYWORD2
+STOP_B	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
